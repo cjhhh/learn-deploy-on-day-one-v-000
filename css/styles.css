@@ -133,7 +133,12 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#tayari-appiah-cover {
+  background-image: url("http://i.imgur.com/shILdc7.jpg")
+}
+#tayari-appiah-card{
+  background-image: url("http://i.imgur.com/UVKTfgl.jpg?1");
+}
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
